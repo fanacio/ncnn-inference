@@ -1,0 +1,1 @@
+SET WATCH_VC_DIR=D:\Microsoft Visual Studio\2017\Professional\VC\Auxiliary\Build
